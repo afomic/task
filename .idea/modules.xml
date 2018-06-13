@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gridAnimation.iml" filepath="$PROJECT_DIR$/gridAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gridAnimation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gridAnimation_main.iml" group="gridAnimation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gridAnimation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gridAnimation_test.iml" group="gridAnimation" />
+    </modules>
+  </component>
+</project>
